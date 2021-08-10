@@ -1,0 +1,7 @@
+pywinauto
+pyautogui
+pandas
+utc-simple-log
+pillow
+pykiwoom
+pyqt5
